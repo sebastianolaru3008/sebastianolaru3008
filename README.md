@@ -1,11 +1,11 @@
 ### Hi there, I'm Sebastian - aka [Tabi][website] 👋
 
 ## I'm a CS Student!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on a [Presentation Website][website]!
+- 🌱 I’m currently learning everything I can 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Make more projects and develop a career path
+- ⚡ Fun fact: I love to draw, play guitar and hack stuff (in an ethical manner )
 
 ### Connect with me:
 
