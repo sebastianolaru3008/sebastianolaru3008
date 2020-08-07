@@ -1,4 +1,4 @@
-### Hi there, I'm Sebastian - aka [codeSTACKr][website] 👋
+### Hi there, I'm Sebastian - aka [Tabi][website] 👋
 
 ## I'm a CS Student!
 - 🔭 I’m currently working on a [VS Code Course][website]!
