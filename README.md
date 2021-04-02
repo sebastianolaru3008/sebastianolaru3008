@@ -9,28 +9,28 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" height="22px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][website]
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" height="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" height="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-###[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][thissite]
-###[<img align="left" alt="HTML5" width="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][thissite]
-###[<img align="left" alt="CSS3" width="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whiteg" />][thissite]
-###[<img align="left" alt="Sass" width="26px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />][thissite]
-###[<img align="left" alt="JavaScript" width="26px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />][thissite]
-###[<img align="left" alt="React" width="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />][thissite]
-###[<img align="left" alt="Node.js" width="26px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />][thissite]
-###[<img align="left" alt="MySQL" width="26px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />][thissite]
-###[<img align="left" alt="MongoDB" width="26px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />][thissite]
-###[<img align="left" alt="Git" width="26px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />][thissite]
-###[<img align="left" alt="Terminal" width="26px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />][thissite]
-###[<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][thissite]
+[<img align="left" alt="Visual Studio Code" height="26px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][thissite]
+[<img align="left" alt="HTML5" height="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][thissite]
+[<img align="left" alt="CSS3" height="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whiteg" />][thissite]
+[<img align="left" alt="Sass" height="26px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />][thissite]
+[<img align="left" alt="JavaScript" height="26px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />][thissite]
+[<img align="left" alt="React" height="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />][thissite]
+[<img align="left" alt="Node.js" height="26px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />][thissite]
+[<img align="left" alt="MySQL" height="26px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />][thissite]
+[<img align="left" alt="MongoDB" height="26px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />][thissite]
+[<img align="left" alt="Git" height="26px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />][thissite]
+[<img align="left" alt="Terminal" height="26px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />][thissite]
+[<img align="left" alt="Python" height="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][thissite]
 
 <br />
 <br />
