@@ -31,6 +31,7 @@
 [<img alt="Terminal" height="26px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />][thissite]
 [<img alt="Python" height="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][thissite]
 
+<br />
 ---
 
 <!--### 📺 Latest YouTube Videos-->
@@ -42,8 +43,6 @@
 <!--### 📕 Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
 
 <img align="left" alt="sebastainolaru3008's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sebastianolaru3008&show_icons=true&hide_border=true" />
 
