@@ -31,9 +31,6 @@
 [<img alt="Terminal" height="26px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />][thissite]
 [<img alt="Python" height="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][thissite]
 
-<br />
-<br />
-
 ---
 
 <!--### 📺 Latest YouTube Videos-->
