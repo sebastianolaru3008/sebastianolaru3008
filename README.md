@@ -1,10 +1,10 @@
 ### Hi there, I'm Sebastian - aka [Tabi][website] 👋
 
 ## I'm a CS Student!
-- 🔭 I’m currently working on a [Presentation Website][website]!
+- 🔭 I’m currently working on an Unnamed Sturtup Project!
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Make more projects and develop a career path
+- 🥅 2021 Goals: Make more projects and develop a career path
 - ⚡ Fun fact: I love to draw, play guitar and hack stuff (in an ethical manner )
 
 ### Connect with me:
@@ -13,7 +13,7 @@
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -38,13 +38,13 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!--### 📺 Latest YouTube Videos-->
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ---
 
-### 📕 Latest Blog Posts
+<!--### 📕 Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -54,7 +54,7 @@
 
 [website]: https://sebastianolaru3008.github.io/
 <!-- [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr -->
+[youtube]: https://youtube.com/codeSTACKr -->
+[instagram]: https://www.instagram.com/seby.olaru3008/
 [linkedin]: https://www.linkedin.com/in/sebastian-olaru-800714197/
 [thissite]: https://github.com/sebastianolaru3008/sebastianolaru3008
