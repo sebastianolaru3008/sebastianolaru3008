@@ -107,13 +107,25 @@
 
 ---
 
-## 🌟 Current Goals & Interests
+## 🌟 Current Goals & Achievements
 
-- 🔬 **Research**: Exploring advanced cybersecurity techniques and IoT security
-- 📱 **Mobile Development**: Building innovative Flutter applications
-- 🤖 **AI & Machine Learning**: Integrating intelligent features into applications
-- 🏠 **Smart Home Technology**: Developing next-generation IoT solutions
-- 🎯 **Career Development**: Transitioning into professional software development roles
+<div align="center">
+
+### 🎯 2024 Focus Areas
+- 🔬 **Advanced Cybersecurity Research** - Exploring penetration testing and security analysis
+- 📱 **Flutter Development** - Building cross-platform mobile applications
+- 🤖 **AI Integration** - Implementing machine learning in practical applications
+- 🏠 **IoT & Smart Systems** - Developing next-generation connected devices
+- 💼 **Professional Growth** - Transitioning into software engineering roles
+
+### 🏆 Key Achievements
+- 🎓 Computer Science Student with hands-on project experience
+- 💻 Multiple successful projects in web, mobile, and embedded systems
+- 🔐 Active in cybersecurity competitions and CTF challenges
+- 🏠 Developed smart home applications with real-world impact
+- ⚡ Contributed to open-source projects and university research
+
+</div>
 
 ---
 
@@ -128,9 +140,6 @@
   </a>
   <a href="https://www.instagram.com/seby.olaru3008/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
