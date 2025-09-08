@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Sebastian+Olaru+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Smart+Home+%26+IoT+Developer+%F0%9F%8F%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Sebastian+Olaru+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Security+Engineer+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;Smart+Home+%26+IoT+Developer+%F0%9F%8F%A0" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,8 +13,8 @@
 ## 🚀 About Me
 
 🎓 **Computer Science Student** passionate about technology and innovation  
+🔐 **Security Engineer** specializing in cybersecurity and penetration testing  
 💻 **Full-Stack Developer** with experience in web and mobile applications  
-🔐 **Cybersecurity Enthusiast** with CTF competition experience  
 🏠 **Smart Home Developer** building IoT solutions  
 🎯 **Current Focus**: Advanced software development and cybersecurity research  
 ⚡ **Fun Fact**: I love to draw, play guitar, and ethically hack systems
@@ -25,24 +25,21 @@
 
 ### 👨‍💻 Programming Languages
 <p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/VHDL-FF6C37?style=for-the-badge&logo=xilinx&logoColor=white" alt="VHDL" />
   <img src="https://img.shields.io/badge/Prolog-74283C?style=for-the-badge&logo=swi-prolog&logoColor=white" alt="Prolog" />
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 ### 🗄️ Databases
@@ -56,7 +53,6 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vivado-FF6C37?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
 </p>
 
 ---
@@ -97,11 +93,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/sebastianolaru3008/CTF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebastianolaru3008&repo=CTF&theme=radical" />
-  </a>
-  <a href="https://github.com/sebastianolaru3008/food-data-provider">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebastianolaru3008&repo=food-data-provider&theme=radical" />
+  <a href="https://github.com/sebastianolaru3008/dot-splt">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebastianolaru3008&repo=dot-splt&theme=radical" />
   </a>
 </div>
 
@@ -137,9 +130,6 @@
   </a>
   <a href="https://www.linkedin.com/in/sebastian-olaru/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/seby.olaru3008/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
