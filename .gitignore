@@ -1,0 +1,13 @@
+# Temporary files
+*.tmp
+*.bak
+*.backup
+README.md.backup
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
