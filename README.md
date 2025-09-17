@@ -130,7 +130,7 @@
 
 ## 🐍 Contribution Snake
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/sebastianolaru3008/sebastianolaru3008/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sebastianolaru3008/sebastianolaru3008/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
