@@ -26,7 +26,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@1.0.10
         with:
           github_user_name: sebastianolaru3008
-				env:
+		env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # push the content of <build_dir> to a branch
