@@ -24,7 +24,7 @@ jobs:
         with:
           repository: sebastianolaru3008/pacman-contribution-graph
           ref: 1.0.11
-          token: ${{ secrets.GH_TOKEN }}   # PAT with repo read scope
+          token: ${{ secrets.GITHUB_TOKEN }}   # PAT with repo read scope
           path: .github/actions/pacman
 
       - name: Run Pacman generator
