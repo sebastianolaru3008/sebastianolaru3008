@@ -24,7 +24,7 @@ jobs:
         with:
           repository: sebastianolaru3008/pacman-contribution-graph
           ref: 1.0.11
-          token: ${{ secrets.GITHUB_TOKEN }}   # PAT with repo read scope
+          token: ${{ secrets.GH_TOKEN }}   # PAT with repo read scope
           path: .github/actions/pacman
 
       - name: Run Pacman generator
@@ -32,7 +32,7 @@ jobs:
         with:
           github_user_name: sebastianolaru3008
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # or GITHUB_TOKEN if your code supports it
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # or GITHUB_TOKEN if your code supports it
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -40,4 +40,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
