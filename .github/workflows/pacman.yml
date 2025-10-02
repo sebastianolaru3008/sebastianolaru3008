@@ -15,23 +15,26 @@ on:
     
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    permissions:
+      contents: write
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: sebastianolaru3008/pacman-contribution-graph@1.0.11
+      - name: Checkout private action into local path
+        uses: actions/checkout@v4
+        with:
+          repository: sebastianolaru3008/pacman-contribution-graph
+          ref: 1.0.11
+          token: ${{ secrets.GH_TOKEN }}   # PAT with repo read scope
+          path: .github/actions/pacman
+
+      - name: Run Pacman generator
+        uses: ./.github/actions/pacman
         with:
           github_user_name: sebastianolaru3008
         env:
-          GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # or GITHUB_TOKEN if your code supports it
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
